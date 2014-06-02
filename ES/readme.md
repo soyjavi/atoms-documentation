@@ -40,7 +40,7 @@ La tradución que
 - [4. Organism: El contenedor](https://github.com/soyjavi/atoms-documentation/blob/master/ES/02.md)
 - [5. Entity: Dando valor a tus átomos](https://github.com/soyjavi/atoms-documentation/blob/master/ES/02.md)
 - [6. Eventos](https://github.com/soyjavi/atoms-documentation/blob/master/ES/02.md)
-- [7. Extensions: Extendiendo](https://github.com/soyjavi/atoms-documentation/blob/master/ES/02.md)
+- [7. Extensions](https://github.com/soyjavi/atoms-documentation/blob/master/ES/02.md)
 - [8. Atoms.APP: Extension para tus Apps](https://github.com/soyjavi/atoms-documentation/blob/master/ES/02.md)
 - [9. Atoms.IDE: El diseñador de Apps](https://github.com/soyjavi/atoms-documentation/blob/master/ES/02.md)
 
