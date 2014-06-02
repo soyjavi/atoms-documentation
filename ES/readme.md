@@ -8,7 +8,7 @@ Lo que tambien se ha demostrado es que por la propia naturaleza de las www, el d
 
 
 ### Los inicios del proyecto *Atoms*
-Es un proyecto creado por uno de los fundadores de Tapquo](http://tapquo.com), Javi Jimenez (aka [@soyjavi](http://twitter.com/soyjavi)) el cual encontró un problema en dos de los frameworks que había desarrollado anteriormente, [Lungo](http://lungo.tapquo.com) y [Monocle](http://monocle.tapquo.com). A pesar de que ambos estan acogidos por un gran grupo de desarrolladores por todo el mundo, y de ofrecer todas las técnicas necesarias parar crear Apps, los dos frameworks tenían la misma finalidad pero con diferente funcionalidad.
+Es un proyecto creado por uno de los fundadores de [Tapquo](http://tapquo.com), Javi Jimenez (aka [@soyjavi](http://twitter.com/soyjavi)) el cual encontró un problema en dos de los frameworks que había desarrollado anteriormente, [Lungo](http://lungo.tapquo.com) y [Monocle](http://monocle.tapquo.com). A pesar de que ambos estan acogidos por un gran grupo de desarrolladores por todo el mundo, y de ofrecer todas las técnicas necesarias parar crear Apps, los dos frameworks tenían la misma finalidad pero con diferente funcionalidad.
 
 Con esto, conociendo a [@soyjavi](http://twitter.com/soyjavi) como una persona que se aleja de las duplicidades comenzó a estudiar otras posibilidades de creación para lo que iba a ser Lungo v3. Dentro de la especificación [W3C](http://www.w3.org/) se está trabajando en varias *spec* que en un futuro nos ayudarán a crear mejores WebApps, como pueden ser los [WebComponents](https://dvcs.w3.org/hg/webcomponents/raw-file/tip/explainer/index.html) HTMLTemplates, ShadowDOM ... pero por desgracia, eso será en el futuro y Javi necesitaba implementarlo en el presente. 
 
