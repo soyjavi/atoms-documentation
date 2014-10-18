@@ -40,10 +40,20 @@ npm install -g gulp
 Now you can download the project code and get all the necessary NPM modules:
 
 ```
-git clone https://github.com/tapquo/atoms.git my-atoms
+git clone https://github.com/tapquo/atoms.git
 git submodule init
+git submodule update
 git submodule foreach git pull origin master
 npm install
+```
+
+Next, get submodules from *atoms-app*:
+
+```
+cd atoms-app
+git submodule init
+git submodule update
+git submodule foreach git pull origin master
 ```
 
 Once we have our computer ready, just you only need Gulp which have already scheduled tasks:
@@ -55,6 +65,9 @@ Once we have our computer ready, just you only need Gulp which have already sche
 
 Run the `gulp` process to watch file changes and run the necessary tasks.
 
+```
+gulp init
+```
 
 ### Your turn, make *Atoms* the best tool
 We do not want you to be a reputed Alchemist, simply internalize these concepts and begin to study the new code that Javi is writing every day and help you on your way to creating a better system for creating custom WebApps, escabalables and community.
